@@ -1,0 +1,13 @@
+1.Install Ionic 
+
+npm install -g @ionic/cli
+
+2.Open in IDE (Webstorm)
+
+Run 'npm install'
+
+3.Write in terminal 
+
+Ionic serve
+
+4.Go to page 2 and make foto 
